@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="guidance" type="guidanceNodeCalibration" name="StereoImages" />
+
+</launch>
